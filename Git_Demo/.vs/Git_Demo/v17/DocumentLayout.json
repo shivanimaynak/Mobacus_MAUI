@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git_POC\\Git_Demo\\",
+  "WorkspaceRootPath": "F:\\GitDemo\\Mobacus_MAUI\\Git_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8831E1A-5F63-417A-AFF7-924B4023CAEB}|Git_Demo.csproj|d:\\git_poc\\git_demo\\mainpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D8831E1A-5F63-417A-AFF7-924B4023CAEB}|Git_Demo.csproj|solutionrelative:mainpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D8831E1A-5F63-417A-AFF7-924B4023CAEB}|Git_Demo.csproj|f:\\gitdemo\\mobacus_maui\\git_demo\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8831E1A-5F63-417A-AFF7-924B4023CAEB}|Git_Demo.csproj|solutionrelative:newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage2.xaml",
-              "DocumentMoniker": "D:\\Git_POC\\Git_Demo\\MainPage2.xaml",
-              "RelativeDocumentMoniker": "MainPage2.xaml",
-              "ToolTip": "D:\\Git_POC\\Git_Demo\\MainPage2.xaml",
-              "RelativeToolTip": "MainPage2.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "F:\\GitDemo\\Mobacus_MAUI\\Git_Demo\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "NewPage1.xaml",
+              "ToolTip": "F:\\GitDemo\\Mobacus_MAUI\\Git_Demo\\NewPage1.xaml",
+              "RelativeToolTip": "NewPage1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-10T10:54:12.779Z",
+              "WhenOpened": "2025-04-10T12:29:33.908Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
