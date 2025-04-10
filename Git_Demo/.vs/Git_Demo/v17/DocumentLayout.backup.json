@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Git_POC\\Git_Demo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8831E1A-5F63-417A-AFF7-924B4023CAEB}|Git_Demo.csproj|d:\\git_poc\\git_demo\\mainpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8831E1A-5F63-417A-AFF7-924B4023CAEB}|Git_Demo.csproj|solutionrelative:mainpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage2.xaml",
+              "DocumentMoniker": "D:\\Git_POC\\Git_Demo\\MainPage2.xaml",
+              "RelativeDocumentMoniker": "MainPage2.xaml",
+              "ToolTip": "D:\\Git_POC\\Git_Demo\\MainPage2.xaml",
+              "RelativeToolTip": "MainPage2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T10:54:12.779Z",
+              "EditorCaption": ""
             }
           ]
         }
